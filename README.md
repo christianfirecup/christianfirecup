@@ -1,7 +1,7 @@
 # @christianfirecup 
-Hello My name Is Christian Im A high School Kid That Does Basic Programing 
+Hello My name Is Christian Im A High School Kid That Does Basic Programming 
 # LEARNING
-Java, C++, And Solidity Smart Contracts
+Java, C++, And Python
 # PROJECTS
 - Minecraft Mods, Solidity Smart Contracts, Unity Game Deveopment
 # REACH ME
