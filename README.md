@@ -36,9 +36,6 @@ I am a computer science student focused on backend development, API engineering,
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Christianfirecup&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christianfirecup&layout=compact)
 
